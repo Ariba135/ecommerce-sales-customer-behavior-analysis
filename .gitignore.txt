@@ -1,0 +1,14 @@
+
+# Exclude original raw datasets
+data/raw/
+
+# Exclude large geolocation dataset
+data/processed/geolocation_cleaned.csv
+
+# Exclude temporary Jupyter files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Exclude temporary Excel files
+~$*.xlsx
