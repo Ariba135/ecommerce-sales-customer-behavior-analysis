@@ -98,7 +98,9 @@ ecommerce-sales-customer-behavior-analysis/
 ├── mysql_data_import.ipynb
 └── README.md
 ```
+## 📊 Project Report
 
+[Download the Complete Project Report (PowerPoint)](ecommerce_sales_customer_behavior_analysis_report.pptx)
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL-based business analysis and Excel dashboard development.
